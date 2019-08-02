@@ -55,5 +55,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define NUMBER_OF_ENCODERS 1
 #define ENCODERS_PAD_A { B2 }
 #define ENCODERS_PAD_B { B3 }
+#define B6_AUDIO
 
 #endif
